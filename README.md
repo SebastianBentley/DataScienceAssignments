@@ -1,4 +1,5 @@
 
-# SoftDataScience
+# SoftDataScience - Sebastian Bentley (cph-sb287)
 ## Written in python using Jupyter Notebook
-- Click this -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SebastianBentley/python_handin_template/HEAD) to run the code!
+This repositry is for delivering Data Science assignments, for the cphbusiness Software development course 2022.
+You can view the .ipynb files directly in GitHub, or download and run them in a Jupyter Notebook.
